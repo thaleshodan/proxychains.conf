@@ -16,12 +16,12 @@ SOCKS4: Embora também possa ser encapsulado em túneis SSH, não oferece suport
 
 `instalação dos proxyschains`
 
-`Debian/Ubuntu` bash`
+`Debian/Ubuntu` `bash`
 
 `sudo apt update`
 `sudo apt install proxychains`
 
-`Arch Linux bash`
+`Arch Linux `bash`
 
 `sudo` `pacman` -S `proxychains`
 
