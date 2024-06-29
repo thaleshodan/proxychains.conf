@@ -14,20 +14,20 @@ SOCKS5: Pode ser combinado com outras tecnologias de criptografia, como SSH (Sec
 SOCKS4: Embora também possa ser encapsulado em túneis SSH, não oferece suporte nativo para esses recursos avançados além de poderem usar uma chave de autenticação chamada pgp (pretty good privacy) que apenas quem criou pode quebrar o que acrescenta ua camada a mais de segurança,além de que esses proxies são usados em altas quantidades por hackers que querem preservar suas identidades,os proxies vem de todo o mundo.
 
 
-´instalação dos proxyschains´
+`instalação dos proxyschains`
 
-Debian/Ubuntu bash
+`Debian/Ubuntu` bash`
 
-sudo apt update
-sudo apt install proxychains
+`sudo apt update`
+`sudo apt install proxychains`
 
-Arch Linux bash
+`Arch Linux bash`
 
-sudo pacman -S proxychains
+`sudo` `pacman` -S `proxychains`
 
-Fedoram bash
+`Fedora` `bash`
 
-sudo dnf install proxychains
+`sudo` `dnf` `install` `proxychains`
 
 
 
